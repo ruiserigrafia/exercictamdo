@@ -3,3 +3,4 @@
 ## Lista de Exercícios
 
 1. Compara Números
+2. Soma dos múltiplos
