@@ -6,3 +6,4 @@
 2. Soma dos múltiplos
 3. Somatorio descrecente
 4. FizzBuzz
+5. Busca sequencial
